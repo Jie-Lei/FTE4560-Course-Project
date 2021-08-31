@@ -1,0 +1,5 @@
+Train with 8 images!
+                     [100]                     alpha = 0.01 
+                     lambda = 0.1 
+                     Mean = 88.8889 
+                     Variance = 0.0000 
